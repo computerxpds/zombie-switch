@@ -1,0 +1,7 @@
+name: Zombieswitch
+main: me.comp.zombieswitch.Zombieswitch
+version: 1.0
+description: >
+             First stab at a zombie spawning switch plugin
+commands:
+   null
