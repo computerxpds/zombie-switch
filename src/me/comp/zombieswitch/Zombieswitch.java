@@ -20,5 +20,5 @@ public class Zombieswitch extends JavaPlugin {
 		  getConfig().options().copyDefaults(true);
 		  this.saveDefaultConfig();
 	   }
-	   
+	   //version will not build correctly, need to update.. fun.. not..
 }
